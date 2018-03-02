@@ -1,0 +1,29 @@
+.tablo{
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 1rem;
+	background-color: transparent;
+}
+
+.tablo th, .tablo td{
+	padding: 0.75rem;
+	vertical-align: top;
+	border-top: 1px solid #dee2e6;
+	text-align:center;
+}
+.makale{
+	margin-bottom:70px;
+}
+.nav-item ul li a:hover{
+	color:#fff;
+	background:pink;
+}
+
+.baslik{
+			padding-top: 30px;
+			padding-bottom: 30px;
+			padding-left: 70px;
+			border-style: dashed;
+			border-color: #007bff;
+			margin-bottom: 50px;
+			}
